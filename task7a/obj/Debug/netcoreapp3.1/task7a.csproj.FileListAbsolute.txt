@@ -1,0 +1,13 @@
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.exe
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.deps.json
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.runtimeconfig.json
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.runtimeconfig.dev.json
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.dll
+D:\Projects\vs\sigma\sigma-practice\task7a\bin\Debug\netcoreapp3.1\task7a.pdb
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.csprojAssemblyReference.cache
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.AssemblyInfoInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.AssemblyInfo.cs
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.csproj.CoreCompileInputs.cache
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.dll
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.pdb
+D:\Projects\vs\sigma\sigma-practice\task7a\obj\Debug\netcoreapp3.1\task7a.genruntimeconfig.cache
